@@ -1,0 +1,12 @@
+{
+  "name": "cadastro-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "run:e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
